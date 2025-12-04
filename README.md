@@ -1,4 +1,4 @@
-# Optimizing-Public-Transportation
+# RailVision-Streaming-Platform
 
 ## Architecture 
 ![Architecture](https://github.com/san089/Optimizing-Public-Transportation/blob/master/docs/architecture.png)
